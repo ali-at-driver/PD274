@@ -53,6 +53,5 @@ def run(inf1, inf2, out1, out2, params=None, lab_adapt_override=None, stdout_ove
 
 
 if __name__=='__main__':
-    output = run('../data/E144-T1-D1_S15_L004_R1_001.fastq.gz', '../data/E144-T1-D1_S15_L004_R1_001.fastq.gz','out1.fastq.gz', 'out1.fastq.gz', stdout_override=True)
-
+    output = run('../data/E144-T1-D1_S15_L004_R1_001.fastq.gz', '../data/E144-T1-D1_S15_L004_R1_001.fastq.gz','out1.fastq.gz', 'out2.fastq.gz', stdout_override=True)
     grep_report(output, "test.tsv")

@@ -1,0 +1,33 @@
+Total read pairs processed	1,000
+Read 1 with adapter	56 (5.6%)
+Read 2 with adapter	56 (5.6%)
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	30	15.6	0	30
+4	12	3.9	0	12
+5	1	1.0	0	1
+8	4	0.0	0	4
+9	1	0.0	0	1
+13	1	0.0	1	1
+16	1	0.0	1	1
+18	1	0.0	1	1
+19	1	0.0	1	1
+26	2	0.0	1	1 1
+30	1	0.0	1	1
+31	1	0.0	1	1
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	30	15.6	0	30
+4	12	3.9	0	12
+5	1	1.0	0	1
+8	4	0.0	0	4
+9	1	0.0	0	1
+13	1	0.0	1	1
+16	1	0.0	1	1
+18	1	0.0	1	1
+19	1	0.0	1	1
+26	2	0.0	1	1 1
+30	1	0.0	1	1
+31	1	0.0	1	1
+
