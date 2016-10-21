@@ -2,3 +2,5 @@ venv
 data
 .pyc
 .py\~
+.fastq.*
+.tsv*
